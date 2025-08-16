@@ -83,9 +83,9 @@ timeout_duration = 300  # 5 minutes
 # Initialize bot with random session
 bot = Client(
     "ugx",
-    api_id=API_ID,
-    api_hash=API_HASH,
-    bot_token=BOT_TOKEN,
+    api_id=25049176,
+    api_hash=7707485514e83af0383f59581446427b,
+    bot_token=8453487589:AAGLAWMNQ4Av8IZyxrBzWfKPL_SwHghlbaw,
     workers=300,
     sleep_threshold=60,
     in_memory=True
